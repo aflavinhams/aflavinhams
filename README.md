@@ -25,11 +25,11 @@
   <img align="center" alt="Ana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Ana-Java" height="30" width="40" <link rel="stylesheet" type='text/css' 
+    <img align="center" alt="Ana-C" height="30" width="40" <link rel="stylesheet" type='text/css' 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
     <img align="center" alt="Ana-Java" height="30" width="40" <link rel="stylesheet" type='text/css' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img align="center" alt="Ana-Java" height="30" width="40" <link rel="stylesheet" type='text/css' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-    <img align="center" alt="Ana-Java" height="30" width="40" <link rel="stylesheet" type='text/css' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+    <img align="center" alt="Ana-Php" height="30" width="40" <link rel="stylesheet" type='text/css' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+    <img align="center" alt="Ana-Mysql" height="30" width="40" <link rel="stylesheet" type='text/css' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
           
  ##
 
@@ -38,6 +38,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
   <a href = "mailto:aflavinhams@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-fl%C3%A1via-martins-dos-santos-058104281/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
-      
-</div>
+![Snake animation](https://github.com/aflavinhams/blob/output/github-contribution-grid-snake.svg)
