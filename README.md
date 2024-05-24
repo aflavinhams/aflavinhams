@@ -3,6 +3,7 @@
 - 📚 I’m studying Computer Science - PUCPR
 - 📫 E-mail: aflavinhams@gmail.com
 - 🤗 Pronouns: she/her
+- 
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <picture>
