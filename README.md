@@ -4,7 +4,21 @@
 - 📫 E-mail: aflavinhams@gmail.com
 - 🤗 Pronouns: she/her
 
-
+<div style="display: flex; align-items: center; justify-content: center;">
+  <picture>
+    <source
+      height="180cm"
+      srcset="https://github-readme-stats.vercel.app/api?username=aflavinhams&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=aflavinhams&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=aflavinhams&show_icons=true" />
+  </picture>
+  <img height= "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aflavinhams&layout=compact&theme=tokyonight"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
