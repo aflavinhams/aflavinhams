@@ -1,26 +1,55 @@
-### Hi there! I'm Ana Flávia Martins dos Santos 👋
+# Hi, I'm Ana Flávia! 👋
 
-- 📚 I’m studying Computer Science - PUCPR
-- 📫 E-mail: aflavinhams@gmail.com
-- 🤗 Pronouns: she/her
+💻 **Computer Science undergraduate at PUCPR | Junior Systems Analyst | AI & GenAI Enthusiast**
 
+I'm a Computer Science undergraduate at PUCPR, graduating in November 2026, with professional experience in Generative AI, Python, LLM-based applications, and software engineering.
 
+Currently, I work at **Telefônica Brasil (Vivo)**, where I develop and evaluate AI-powered solutions, including an internal GenAI application deployed and used by my team.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Ana-C" height="30" width="40" <link rel="stylesheet" type='text/css' 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-    <img align="center" alt="Ana-Java" height="30" width="40" <link rel="stylesheet" type='text/css' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img align="center" alt="Ana-Php" height="30" width="40" <link rel="stylesheet" type='text/css' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-    <img align="center" alt="Ana-Mysql" height="30" width="40" <link rel="stylesheet" type='text/css' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-          
- ##
+My main interests are **AI Engineering, Generative AI, AI Agents, Machine Learning, and Deep Learning**.
 
- <div> 
-  <a href = "mailto:aflavinhams@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ana-fl%C3%A1via-martins-dos-santos-058104281/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### 🚀 What I'm working on
 
-![snake gif](https://github.com/aflavinhams/aflavinhams/blob/output/github-contribution-grid-snake.svg)
+- Building Generative AI solutions with Python, Azure OpenAI, and REST APIs.
+- Working with LLM-based applications, agent workflows, and AI reliability.
+- Researching uncertainty estimation in neural networks using Monte Carlo Dropout.
+- Developing multimodal Machine Learning approaches for sarcasm detection.
+
+### 🛠️ Tech Stack
+
+**AI & GenAI:** Azure OpenAI, Gemini API, LangGraph, Langfuse, RAG, MCP, Function Calling, Prompt Engineering
+
+**Machine Learning:** Scikit-learn, TensorFlow, Keras, Pandas, NumPy
+
+**Development:** Python, JavaScript, Node.js, REST APIs, Git, Docker, SQL
+
+**Automation:** n8n, Webhooks
+
+### 🔬 Featured Projects
+
+**Multimodal Sarcasm Detection — Machine Learning**
+
+Academic project combining text, audio, and visual information to detect sarcasm using multimodal feature extraction and dynamic classifier selection.
+
+[View Repository](https://github.com/berkembrockisabella/sarcasm-dynamic-selection)
+
+**Generative AI for Test Planning — Corporate Project**
+
+Developed an internal AI-powered solution at Telefônica Brasil using Python, Azure OpenAI, and REST APIs to support test planning and distribution. The application is deployed in a virtual machine and used by the team.
+
+*Proprietary project — source code not publicly available.*
+
+**WhatsApp AI Agent — Gemini API & n8n**
+
+Built a conversational automation integrating Gemini API, MCP, function calling, webhooks, and external services to manage shopping lists.
+
+### 🌎 Community & Research
+
+- **Google Student Ambassador (2026)**
+- **Chapter Organizer — AI Tinkerers Curitiba**
+- **Undergraduate Researcher — Deep Learning & Uncertainty Quantification**
+- **Finalist — Women's Programming Marathon 2024**
+
+### 📫 Let's connect!
+
+[LinkedIn](https://www.linkedin.com/in/ana-flavia-martins-dos-santos-058104281) | [GitHub](https://github.com/aflavinhams)
